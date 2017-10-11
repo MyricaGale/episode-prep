@@ -8,6 +8,7 @@ Rohstoffanlieferung im Hafen
 ------------------------
 * Welche Rohstoffe
 * Woher
+* Welche Unterschiede gibt es? Reinheit? Vielleicht Stichwort Siderit am Erzberg ( https://de.wikipedia.org/wiki/Erzberg)
 
 
 Kokerei
@@ -34,6 +35,9 @@ https://de.wikipedia.org/wiki/Hochofen
 
 * Aka Eisenwerk, Hüttenwerk
 * Macht aus Eisenerz Roheisen
+* Unterschiedliche Verfahren (LD, ...) Unterschiede, Technologiesprünge
+* Welche Technologien werden erforscht?
+* CO2 Ausstoß? Menge und wo gibt es Verbesserungen?
 
 
 Stahlwerk
@@ -65,3 +69,5 @@ https://de.wikipedia.org/wiki/Kaltwalzen
 Veredelungsanlage (Stefan)
 ------------------------
 * z.B. Feurerverzinkung / Elektrolytische-Verzinkung
+
+
